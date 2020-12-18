@@ -1,0 +1,8 @@
+{
+    "game" : string, //de que juego se trata
+    "organizer" : string, //quien ha iniciado la partida
+    "player" : [string], //todos los jugadores implicados
+    "puntuation" : [int], //puntos de cada jugador
+    "turn" : [bool], //a quien le toca turno
+    "round" : int //por que ronda va la partida
+}
